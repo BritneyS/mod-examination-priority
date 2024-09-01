@@ -1,0 +1,16 @@
+<Database>
+	<GameDBStringTable ID="ADDON_MOD_EXAMINATIONS_PRIORITY">
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>english</LanguageNameLocalized>
+		<Contributors>
+			<Name>BritneySmith</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>ADDON_MOD_EXAMINATIONS_PRIORITY</LocID>
+				<Text>Examinations Priority</Text>
+			</GameDBLocalizedString>
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

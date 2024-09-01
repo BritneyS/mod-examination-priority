@@ -1,0 +1,55 @@
+Original list of priority changes by Butch (except where I tweaked things further). I did not change the examination duration like they did.
+
+This is not a README because I don't intend to release this mod. This is just a backup for my personal use.
+
+Interview - 100
+Speech Listening - 99
+Temperature Measurement - 98
+Heart Monitoring - 97
+Physical Exam - 95
+Neck Palpation - 94
+Abdominal Exam - 90
+FAST- 86 < Switch with Urgent Echo
+Urgent Echo - 85 < Switch with FAST
+Thorax Percussion - 84 < Switch with Chest Listening
+Chest Ausculation - 80 < Switch with Thorax Percussion
+Neurological Exam - 75 
+Blood Pressure Measurement - 70 < change to 96
+Oral Cavity Inspection - 69
+Ear Exam - 67
+Nasal Inspection - 65
+CRP - 55
+Ophthalmoscopy - 54
+ECG - 53
+Echo - 52
+
+X-Ray Chest - 50 < change to 49
+X RAY LOWER LIMB - 50 < change to 49
+X RAY UPPER LIMB - 50 < change to 49
+X RAY HEAD - 50 < change to 49
+X RAY BACK - 50 < change to 49
+Barium Swallow - 47 (TO DO)
+Observation - 46 < change to 37 < actually can't do this anymore, deprecated, but default "priority" is currently 30, according to a dev post
+CBC sampling- 45 (1 hour duration 45 priority in lab) < change to 40
+
+Blood test sampling- 44 (1 hour duration 40 priority in lab) < change to 51
+Differential Diagnosis - 43 < change to 50
+
+
+Bacteria Cultivation- 42
+Urine Analysis - 41
+Stool Collecting - 39 (2 hour duration)
+PCR - 38
+
+CT Enterography - 35 < Switch with CT
+CT - 30 <Switch with CT Enterography
+Gastroscopy - 25
+USG - 25 < change to 26
+MRI - 10
+
+====
+Future bedside exams:
+- bandage
+- temperature measurement
+- blood pressure measurement
+- neurological testing
